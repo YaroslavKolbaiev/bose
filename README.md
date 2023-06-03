@@ -1,6 +1,6 @@
 # Bose landing page
 
-[LIVE DEMO]()
+[LIVE DEMO](https://yaroslavkolbaiev.github.io/bose/)
 
 # About the projects
 
